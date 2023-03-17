@@ -1,0 +1,39 @@
+/*Body*/
+
+body{
+    background-color:#39B5E0;
+    text-align:center;
+}
+
+/* text*/
+
+h1{
+    font-family:'Lobster','cursive';
+    font-size:5rem;
+    color:#A31ACB;
+    text-shadow:2px 1px #FF78F0;
+    margin-top:20px;
+}
+
+p.player{
+    font-family:'Indie Flower';
+    margin:0 6%;
+    font-size:2rem;
+}
+
+p.footer{
+    margin:10%;
+    color:#fff;
+}
+
+/* div */
+.player-dice{
+    display:inline-block;
+    margin:0 5%;
+}
+
+/* image */
+img{
+    width:200px;;
+}
+
